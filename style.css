@@ -1,0 +1,34 @@
+h1{
+    color:green;
+    font-family:sans-serif;
+}
+
+p{
+    color:black;
+    font-family:fantasy;
+
+}
+a{
+      font-family     : Helvetica, sans-serif;
+      text-decoration : none;
+      background-color: aquamarine;
+      padding         : 5px;
+}
+ a:hover{
+      background-color: aqua;
+      color           : #ffffff;
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style:solid
+    border-color: #2695A6;
+    font-style: italic;
+}
+
+th{
+    font-weight: 800;
+    background-color:beige;
+    color:black
+}
